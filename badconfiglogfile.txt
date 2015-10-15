@@ -1,0 +1,1 @@
+Bad config format in ClueFiles/ClueLegendBadFormat.txt.

@@ -1,0 +1,65 @@
+commit bf8b8e41ca3ae29f394542eafef6efd922805e8a
+Author: Griffin Ciluffo <griffin@ciluffo.com>
+Date:   Fri Oct 9 11:57:47 2015 -0600
+
+    Added skeletons for junit and classes and added config files
+
+commit 47fdbd5a0c873960c751d137355b97678cb14838
+Author: Griffin Ciluffo <griffin@ciluffo.com>
+Date:   Fri Oct 9 10:03:09 2015 -0600
+
+    Initial commit with junit tests for adj lists and calc targets
+
+commit 917cdaca392859b202ca202b867de457cb833121
+Author: unknown <gciluffo@MZ022-09.adit.mines.edu>
+Date:   Tue Oct 13 14:04:45 2015 -0600
+
+    Finished making all tests for our board layout along with spread sheet updatef
+
+commit f96bf2862623a2e61fa08040612fe101612cbd8b
+Author: unknown <gciluffo@MZ022-09.adit.mines.edu>
+Date:   Tue Oct 13 13:00:47 2015 -0600
+
+    Passed given tests for adj tests
+
+commit 31cd76b51c74e88ff001f046c9b506117ab8f899
+Author: Tyler Bank <tbank@mines.edu>
+Date:   Tue Oct 13 02:14:56 2015 -0600
+
+    attempting to get everything up to date
+
+commit 554674aeca429ced0e38b4d99aca0c2fb9ce548b
+Author: Tyler Bank <tbank@mines.edu>
+Date:   Tue Oct 13 02:10:04 2015 -0600
+
+    file tests have passed. Part 2 fail tests included and are failing.
+
+commit 5fd72ca2f1ef5a6d3f83b7ede1a5bc4234d19ee5
+Author: Griffin Ciluffo <griffin@ciluffo.com>
+Date:   Fri Oct 9 14:55:46 2015 -0600
+
+    Final j-units failing tests
+
+commit 64689be5bf12e6fec7c5957d068deef6a168e6ce
+Author: Griffin Ciluffo <griffin@ciluffo.com>
+Date:   Fri Oct 9 14:26:30 2015 -0600
+
+    Test commit
+
+commit 27703ede44a9c96de14a17541abd47bfc84d065b
+Author: Griffin Ciluffo <griffin@ciluffo.com>
+Date:   Fri Oct 9 14:14:11 2015 -0600
+
+    changed Loading methods
+
+commit 47f722e4c2a7cf78cb92b3eb039c81bdd7e45642
+Author: Griffin Ciluffo <griffin@ciluffo.com>
+Date:   Fri Oct 9 13:45:55 2015 -0600
+
+    added finished failing J-unit tests
+
+commit 8ce51984a7101375180e280e107b1b4eebe1a0c6
+Author: Griffin Ciluffo <griffin@ciluffo.com>
+Date:   Fri Oct 9 13:40:56 2015 -0600
+
+    Added contributors
